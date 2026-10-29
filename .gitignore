@@ -1,0 +1,4 @@
+*.xlsx
+~$*
+.DS_Store
+raw_olist_data_last.csv
